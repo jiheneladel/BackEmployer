@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApp_EmployeeList", "BlazorApp_EmployeeList\BlazorApp_EmployeeList.csproj", "{1DD8C350-B8DD-42E2-A67C-48D6EE9BF6CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagmentclass", "EmployeeManagmentclass\EmployeeManagmentclass.csproj", "{0D3AF34B-01F1-4350-8AEC-C37F540E0300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DD8C350-B8DD-42E2-A67C-48D6EE9BF6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD8C350-B8DD-42E2-A67C-48D6EE9BF6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD8C350-B8DD-42E2-A67C-48D6EE9BF6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD8C350-B8DD-42E2-A67C-48D6EE9BF6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3AF34B-01F1-4350-8AEC-C37F540E0300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3AF34B-01F1-4350-8AEC-C37F540E0300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3AF34B-01F1-4350-8AEC-C37F540E0300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3AF34B-01F1-4350-8AEC-C37F540E0300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A654A18-9499-48A7-A574-124F81082D4B}
+	EndGlobalSection
+EndGlobal

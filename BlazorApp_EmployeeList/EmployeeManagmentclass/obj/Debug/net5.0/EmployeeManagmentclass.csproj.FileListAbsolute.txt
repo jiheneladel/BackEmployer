@@ -1,0 +1,12 @@
+C:\Users\Khaled Haj Messaoud\source\repos\BlazorApp_EmployeeList\EmployeeManagmentclass\bin\Debug\net5.0\EmployeeManagmentclass.deps.json
+C:\Users\Khaled Haj Messaoud\source\repos\BlazorApp_EmployeeList\EmployeeManagmentclass\bin\Debug\net5.0\EmployeeManagmentclass.dll
+C:\Users\Khaled Haj Messaoud\source\repos\BlazorApp_EmployeeList\EmployeeManagmentclass\bin\Debug\net5.0\ref\EmployeeManagmentclass.dll
+C:\Users\Khaled Haj Messaoud\source\repos\BlazorApp_EmployeeList\EmployeeManagmentclass\bin\Debug\net5.0\EmployeeManagmentclass.pdb
+C:\Users\Khaled Haj Messaoud\source\repos\BlazorApp_EmployeeList\EmployeeManagmentclass\obj\Debug\net5.0\EmployeeManagmentclass.csproj.AssemblyReference.cache
+C:\Users\Khaled Haj Messaoud\source\repos\BlazorApp_EmployeeList\EmployeeManagmentclass\obj\Debug\net5.0\EmployeeManagmentclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khaled Haj Messaoud\source\repos\BlazorApp_EmployeeList\EmployeeManagmentclass\obj\Debug\net5.0\EmployeeManagmentclass.AssemblyInfoInputs.cache
+C:\Users\Khaled Haj Messaoud\source\repos\BlazorApp_EmployeeList\EmployeeManagmentclass\obj\Debug\net5.0\EmployeeManagmentclass.AssemblyInfo.cs
+C:\Users\Khaled Haj Messaoud\source\repos\BlazorApp_EmployeeList\EmployeeManagmentclass\obj\Debug\net5.0\EmployeeManagmentclass.csproj.CoreCompileInputs.cache
+C:\Users\Khaled Haj Messaoud\source\repos\BlazorApp_EmployeeList\EmployeeManagmentclass\obj\Debug\net5.0\EmployeeManagmentclass.dll
+C:\Users\Khaled Haj Messaoud\source\repos\BlazorApp_EmployeeList\EmployeeManagmentclass\obj\Debug\net5.0\ref\EmployeeManagmentclass.dll
+C:\Users\Khaled Haj Messaoud\source\repos\BlazorApp_EmployeeList\EmployeeManagmentclass\obj\Debug\net5.0\EmployeeManagmentclass.pdb
